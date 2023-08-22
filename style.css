@@ -74,6 +74,7 @@ html, body{
     background-color:#f1f2f6;
 }
 .bubble:hover{
+    border: 1px solid #f1f2f6;
     background-color: #c0c6dc;
 }
 .scoring{

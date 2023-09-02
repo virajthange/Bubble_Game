@@ -26,8 +26,9 @@ html, body{
 }
 .top-panel{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 0 50px;
     background-color: #778ca3;
     height: 100px;
